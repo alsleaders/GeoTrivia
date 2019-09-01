@@ -136,3 +136,24 @@ app {
     display: block;
   }
 }
+
+.border {
+  border: inset indigo 2rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: space-evenly;
+  flex-direction: row;
+}
+.o-hide {
+  opacity: 0;
+  transition: all ease 0.8s;
+}
+
+.o-hide:hover {
+  opacity: 1;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}

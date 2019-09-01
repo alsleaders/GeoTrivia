@@ -126,3 +126,5 @@ C:\Users\palep\sdg\sandbox\GeoTrivia\obj\Debug\netstandard2.0\blazor\linker\Syst
 C:\Users\palep\sdg\sandbox\GeoTrivia\obj\Debug\netstandard2.0\blazor\linker\GeoTrivia.pdb
 C:\Users\palep\sdg\sandbox\GeoTrivia\obj\Debug\netstandard2.0\blazor\inputs.bootjson.cache
 C:\Users\palep\sdg\sandbox\GeoTrivia\obj\Debug\netstandard2.0\blazor\blazor.boot.json
+C:\Users\palep\sdg\sandbox\GeoTrivia\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Geography.razor.g.cs
+C:\Users\palep\sdg\sandbox\GeoTrivia\obj\Debug\netstandard2.0\Razor\Pages\Geography.razor.g.cs
