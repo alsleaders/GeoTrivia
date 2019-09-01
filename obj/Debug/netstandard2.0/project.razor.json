@@ -254,55 +254,6 @@
       },
       {
         "Kind": "Components.Component",
-        "Name": "GeoTrivia.Pages.__generated__Index",
-        "AssemblyName": "GeoTrivia",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "__generated__Index",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "GeoTrivia.Pages.__generated__Index"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "GeoTrivia.Pages.__generated__Index",
-        "AssemblyName": "GeoTrivia",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "GeoTrivia.Pages.__generated__Index",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "GeoTrivia.Pages.__generated__Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "Kind": "Components.Component",
         "Name": "GeoTrivia.Shared.MainLayout",
         "AssemblyName": "GeoTrivia",
         "Documentation": null,
